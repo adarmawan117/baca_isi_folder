@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583899781 source:d:\programming\projectc\ongithub\open_dir\main.c
+	<stdio.h>
+	<dirent.h>
+
